@@ -13,7 +13,7 @@
         android:theme="@style/Theme.Kashap"
         tools:targetApi="31">
         <activity
-            android:name=".pay_ment"
+            android:name=".MainActivity"
             android:exported="true"
             android:theme="@style/Theme.MyApp.Mysplash"
         >
